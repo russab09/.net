@@ -1,0 +1,6 @@
+G:\C#\1 пара\bin\Debug\1 пара.exe.config
+G:\C#\1 пара\bin\Debug\1 пара.exe
+G:\C#\1 пара\bin\Debug\1 пара.pdb
+G:\C#\1 пара\obj\Debug\1 пара.csprojAssemblyReference.cache
+G:\C#\1 пара\obj\Debug\1 пара.exe
+G:\C#\1 пара\obj\Debug\1 пара.pdb
