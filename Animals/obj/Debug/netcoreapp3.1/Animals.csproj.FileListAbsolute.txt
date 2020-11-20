@@ -1,0 +1,11 @@
+G:\C# git\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+G:\C# git\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+G:\C# git\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+G:\C# git\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+G:\C# git\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+G:\C# git\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
