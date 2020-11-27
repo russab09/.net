@@ -6,28 +6,34 @@ namespace Animals
     {
         static void Main(string[] args)
         {
-            var WhiteWhale = new Fish("Whale");
-            var Collibry = new Bird("Collibry");
-            var Arachnid = new Insect("Arachnid");
-            Animal[] arr = new Animal[] { WhiteWhale, Collibry, Arachnid };
-            Console.WriteLine("Добро пожаловать в наш зоопарк!");
-            Collibry.Live();
-            WhiteWhale.Eating();
-            Arachnid.Older();
-            for (int i = 0; i < arr.Length; i++)
+            var array = new Animal[3];
+            array[0] = new Fish("Whale");
+            array[1] = new Bird("Collibry");
+            array[2] = new Insect("Arachnid");
+            for (int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine(arr[i].ToString());
-
+                var animal1 = array[i] as Fish;
+                if (animal1 != null)
+                {
+                    animal1.Eating();
+                    animal1.ForFish();
+                }
+                var animal2 = array[i] as Bird;
+                if (animal2 != null)
+                {
+                    animal2.Live();
+                    animal2.ForBird();
+                }
+                var animal3 = array[i] as Insect;
+                if (animal3 != null)
+                {
+                    animal3.Older();
+                    animal3.ForInsect();
+                }
             }
-            Console.WriteLine("Применение интерфейсов:");
-            Collibry.Live();
-            Collibry.Older();
-            WhiteWhale.Eating();
-            Arachnid.Older();
-            for (int i = 0; i < arr.Length; i++)
+            for(int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine(arr[i].ToString());
-
+                Console.WriteLine(array[i].ToString());
             }
         }
     }

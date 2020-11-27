@@ -9,3 +9,5 @@ G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
 G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
 G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.dll
 G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+G:\C# git\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache
