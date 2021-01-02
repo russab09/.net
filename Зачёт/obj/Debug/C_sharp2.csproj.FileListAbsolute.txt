@@ -1,0 +1,7 @@
+C:\Users\ghost\source\repos\C_sharp2\bin\Debug\C_sharp2.exe.config
+C:\Users\ghost\source\repos\C_sharp2\bin\Debug\C_sharp2.exe
+C:\Users\ghost\source\repos\C_sharp2\bin\Debug\C_sharp2.pdb
+C:\Users\ghost\source\repos\C_sharp2\obj\Debug\C_sharp2.csprojAssemblyReference.cache
+C:\Users\ghost\source\repos\C_sharp2\obj\Debug\C_sharp2.csproj.CoreCompileInputs.cache
+C:\Users\ghost\source\repos\C_sharp2\obj\Debug\C_sharp2.exe
+C:\Users\ghost\source\repos\C_sharp2\obj\Debug\C_sharp2.pdb
